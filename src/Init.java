@@ -81,7 +81,7 @@ public class Init extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnVersionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnVersionActionPerformed
-        JOptionPane.showMessageDialog(rootPane, "Estas en la rama MASTER ");
+        JOptionPane.showMessageDialog(rootPane, "Estas en la rama MASTER     ");
     }//GEN-LAST:event_btnVersionActionPerformed
 
     /**
